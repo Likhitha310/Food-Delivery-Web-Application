@@ -1,0 +1,15 @@
+/* Menu component styles */
+.menu {
+    margin-top: 20px;
+  }
+  
+  .menu-item {
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item:hover {
+    cursor: pointer;
+    color: #007bff;
+  }
+  
