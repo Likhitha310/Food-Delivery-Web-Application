@@ -13,7 +13,7 @@ This repository contains the code for a Food Delivery Web Application built usin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/food-delivery-app.git
+    git clone https://github.com/Likhitha310/food-delivery-app.git
     ```
 
 2. Install dependencies for the frontend:
